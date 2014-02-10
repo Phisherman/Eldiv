@@ -5,9 +5,9 @@ A canvas full of primitives. If you click on one, it divides into four smaller o
 
 License
 =======
-Paste.js is licensed under the terms and conditions of the MIT License
+Eldiv is licensed under the terms and conditions of the MIT License
 
-Copyright (c) [2014] [squarerootfury]
+Copyright 2014 by Phisherman
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
